@@ -1,0 +1,31 @@
+Product Sync Weekly — January 15, 2025
+
+Attendees: Sarah (PM), Mike (Eng Lead), Priya (Design), Tom (QA)
+
+Sarah: Alright, let's get started. Mike, where are we on the search redesign?
+
+Mike: We shipped the backend changes last Thursday. Frontend is about 80% done. Should be ready for QA by end of this week.
+
+Sarah: Great. Priya, how's the design for the new settings page?
+
+Priya: I finished the mockups. I'll share the Figma link after this call. One thing — I need a decision on whether we're doing the tabbed layout or the single-scroll layout. I mocked up both.
+
+Sarah: Let's go with the tabbed layout. It tested better in the user interviews last month.
+
+Tom: Quick flag — I found a regression in the export feature. PDFs are generating with broken formatting since the last deploy. I'd call it a P1.
+
+Mike: I saw that too. I'll have a fix out by tomorrow.
+
+Sarah: Thanks Mike. Tom, can you verify the fix once it's deployed?
+
+Tom: Yep, I'll test it as soon as it's up.
+
+Sarah: Other updates?
+
+Priya: I'm still waiting on the brand guidelines update from marketing. I pinged them last week but haven't heard back. It's blocking the landing page redesign.
+
+Sarah: I'll follow up with marketing today. We need those by Friday at the latest.
+
+Mike: One more thing — we need to decide on the analytics provider. I've been evaluating Mixpanel and Amplitude. Can we make a call on that next meeting? I'll have a comparison doc ready.
+
+Sarah: Perfect. Let's plan to decide on analytics next week. Anything else? Alright, good meeting everyone.
