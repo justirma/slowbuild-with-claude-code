@@ -10,7 +10,7 @@ Two AI tools for product managers, taught interactively through Claude Code.
 ## Quick start
 
 ```bash
-git clone https://github.com/IrmaEdite/slowbuild-with-claude-code.git
+git clone https://github.com/justirma/slowbuild-with-claude-code.git
 cd slowbuild-with-claude-code
 claude
 ```

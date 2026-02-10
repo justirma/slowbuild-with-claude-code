@@ -9,7 +9,7 @@ The user has tried one or both tools. Wrap up the session.
 3. Mention they can always run `/start` to pick the other tool if they haven't tried both.
 
 4. Point them to the GitHub repos if they want to dig deeper or customize:
-   - Feedback Analyzer: https://github.com/IrmaEdite/pm-feedback-analyzer
-   - Pre-Read Generator: https://github.com/IrmaEdite/preread-skill
+   - Feedback Analyzer: https://github.com/justirma/pm-feedback-analyzer
+   - Pre-Read Generator: https://github.com/justirma/preread-skill
 
 Keep it brief. No long pep talks.
