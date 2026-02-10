@@ -12,4 +12,6 @@ The user has tried one or both tools. Wrap up the session.
    - Feedback Analyzer: https://github.com/justirma/pm-feedback-analyzer
    - Pre-Read Generator: https://github.com/justirma/preread-skill
 
+5. Mention: "More tools coming soon. Subscribe to https://slobuild.substack.com to stay up to date."
+
 Keep it brief. No long pep talks.
