@@ -1,14 +1,14 @@
 # slow build with claude code
 
-free, interactive tools for product managers — built with claude code, learned through claude code.
+free tools for product managers — try them interactively through claude code.
 
 ## what's inside
 
-**pre-read generator** — paste a meeting transcript, get a pre-read for your next meeting. it builds memory over time — decisions, action items, and open questions carry forward automatically. use it before meetings to communicate key items to your team. you can extend it by adding calendar auth, connecting to MCPs, or automating pre-reads to send directly to attendees.
+**pre-read generator** — paste a meeting transcript, get a pre-read for the next one. it remembers what happened — decisions, action items, open questions — and carries them forward so nothing gets lost between meetings. the more you use it, the better it gets. from here you can add calendar auth, connect to MCPs, or automate sending pre-reads to attendees.
 
-**feedback analyzer** — paste customer feedback, get it categorized and prioritized. use it to surface bugs, spot feature requests, generate ideas, and draft PRDs. enhance it by attaching your company goals, product context, and analytics to make the output even sharper.
+**feedback analyzer** — paste customer feedback, get it sorted and prioritized. bugs, feature requests, ux issues, praise — all bucketed so you can actually see what's going on. use it to spot patterns, generate ideas, or draft PRDs. layer in your company goals and product context to make it even more useful.
 
-## quick start
+## get started
 
 ```bash
 git clone https://github.com/justirma/slowbuild-with-claude-code.git
@@ -31,17 +31,17 @@ then run `/start`.
 
 when you start, you pick how you want to learn:
 
-- **just use it** — minimal explanation, straight to results
-- **walk me through it** — claude explains what's happening and why along the way
+- **just use it** — straight to results, minimal hand-holding
+- **walk me through it** — same tool, but i'll explain what's happening and why along the way
 
 ## requirements
 
 - [claude code](https://claude.ai/download)
-- [anthropic API key](https://console.anthropic.com/)
+- [anthropic api key](https://console.anthropic.com/)
 
 ## more coming soon
 
-i like building things and will keep adding tools as i continue to learn. please be patient if you find any bugs :)
+i like building things and i'll keep adding tools as i learn. please be patient if you find any bugs :)
 
 subscribe to [slobuild.substack.com](https://slobuild.substack.com) to stay up to date.
 
