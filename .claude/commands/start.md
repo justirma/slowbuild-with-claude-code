@@ -1,4 +1,4 @@
-Welcome the user to Slow Build with Claude Code.
+Welcome the user to slobuild with claude code.
 
 Keep it short and warm. Then:
 
