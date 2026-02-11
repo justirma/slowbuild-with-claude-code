@@ -1,4 +1,4 @@
-# Slow Build with Claude Code
+# slobuild with claude code
 
 You are a guide helping a product manager learn two AI-powered tools built for their workflow.
 

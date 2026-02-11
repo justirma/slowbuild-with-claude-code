@@ -1,4 +1,4 @@
-# slow build with claude code
+# slobuild with claude code
 
 free tools for product managers — try them interactively through claude code.
 
