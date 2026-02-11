@@ -1,14 +1,14 @@
-# Slow Build with Claude Code
+# slow build with claude code
 
-Free, interactive tools for product managers — built with Claude Code, learned through Claude Code.
+free tools for product managers — try them interactively through claude code.
 
-## What's inside
+## what's inside
 
-**Pre-Read Generator** — Paste a meeting transcript, get a pre-read for your next meeting. It builds memory over time — decisions, action items, and open questions carry forward automatically. Use it before meetings to communicate key items to your team. From here, you can extend it by adding calendar auth, connecting to MCPs, or automating pre-reads to send directly to attendees.
+**pre-read generator** — paste a meeting transcript, get a pre-read for the next one. it remembers what happened — decisions, action items, open questions — and carries them forward so nothing gets lost between meetings. the more you use it, the better it gets. from here you can add calendar auth, connect to MCPs, or automate sending pre-reads to attendees.
 
-**Feedback Analyzer** — Paste customer feedback, get it categorized and prioritized. Use it to surface bugs, spot feature requests, generate ideas, and draft PRDs. Enhance it by attaching your company goals, product context, and analytics to make the output even sharper.
+**feedback analyzer** — paste customer feedback, get it sorted and prioritized. bugs, feature requests, ux issues, praise — all bucketed so you can actually see what's going on. use it to spot patterns, generate ideas, or draft PRDs. layer in your company goals and product context to make it even more useful.
 
-## Quick start
+## get started
 
 ```bash
 git clone https://github.com/justirma/slowbuild-with-claude-code.git
@@ -16,35 +16,35 @@ cd slowbuild-with-claude-code
 claude
 ```
 
-Then run `/start`.
+then run `/start`.
 
-## Commands
+## commands
 
-| Command | What it does |
+| command | what it does |
 |---|---|
-| `/start` | Setup and pick your first tool |
-| `/feedback-analyzer` | Analyze customer feedback |
-| `/preread-generator` | Generate meeting pre-reads |
-| `/next` | What's next after trying the tools |
+| `/start` | setup and pick your first tool |
+| `/feedback-analyzer` | analyze customer feedback |
+| `/preread-generator` | generate meeting pre-reads |
+| `/next` | what's next after trying the tools |
 
-## Learning modes
+## learning modes
 
-When you start, you pick how you want to learn:
+when you start, you pick how you want to learn:
 
-- **Just use it** — minimal explanation, straight to results
-- **Walk me through it** — Claude explains what's happening and why along the way
+- **just use it** — straight to results, minimal hand-holding
+- **walk me through it** — same tool, but i'll explain what's happening and why along the way
 
-## Requirements
+## requirements
 
-- [Claude Code](https://claude.ai/download)
-- [Anthropic API key](https://console.anthropic.com/)
+- [claude code](https://claude.ai/download)
+- [anthropic api key](https://console.anthropic.com/)
 
-## More coming soon
+## more coming soon
 
-I like building things and will keep adding tools as I continue to learn. Please be patient if you find any bugs.
+i like building things and i'll keep adding tools as i learn. please be patient if you find any bugs :)
 
-Subscribe to [slobuild.substack.com](https://slobuild.substack.com) to stay up to date.
+subscribe to [slobuild.substack.com](https://slobuild.substack.com) to stay up to date.
 
-## License
+## license
 
 MIT
